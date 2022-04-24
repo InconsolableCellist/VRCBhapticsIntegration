@@ -4,12 +4,12 @@ namespace VRCBhapticsIntegration
 {
     internal static class SteamTracking
 	{
-		internal static VRCTrackingSteam GetTrackingManager()
-			=> VRCBhapticsIntegration.FindVRCTracking<VRCTrackingSteam>();
+		internal static MonoBehaviour1PublicTrGaTrStGaHaTr1GaObUnique GetTrackingManager()
+			=> VRCBhapticsIntegration.FindVRCTracking<MonoBehaviour1PublicTrGaTrStGaHaTr1GaObUnique>();
 
 		internal static SteamVR_ControllerManager GetControllerManager()
 		{
-			VRCTrackingSteam tracking = GetTrackingManager();
+			MonoBehaviour1PublicTrGaTrStGaHaTr1GaObUnique tracking = GetTrackingManager();
 			if (tracking == null)
 				return null;
 

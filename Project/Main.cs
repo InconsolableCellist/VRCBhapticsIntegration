@@ -51,7 +51,7 @@ namespace VRCBhapticsIntegration
 		internal static T FindVRCTracking<T>() where T : VRCTracking
 		{
 			T VRCTrackingT = null;
-			foreach (VRCTracking vrcTracking in VRCTrackingManager.field_Private_Static_VRCTrackingManager_0.field_Private_List_1_VRCTracking_0)
+			 foreach (VRCTracking vrcTracking in MonoBehaviourPublicObStBoTrLiObBoStTr1Unique.field_Private_Static_MonoBehaviourPublicObStBoTrLiObBoStTr1Unique_0.field_Private_List_1_VRCTracking_0)
 			{
 				VRCTrackingT = vrcTracking.TryCast<T>();
 				if (VRCTrackingT != null)
