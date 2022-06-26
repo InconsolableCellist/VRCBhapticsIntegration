@@ -33,7 +33,7 @@ Special Thanks to [bHaptics](https://www.bhaptics.com) for making the bHaptics G
 
 ### LICENSING & CREDITS:
 
-VRCBhapticsIntegration is licensed under the Apache License, Version 2.0. See [LICENSE](https://github.com/HerpDerpinstine/VRCBhapticsIntegration/blob/master/LICENSE.md) for the full License.
+VRCBhapticsIntegration is licensed under the Apache License, Version 2.0. See [LICENSE](LICENSE.md) for the full License.
 
 VRCBhapticsIntegration is not sponsored by, affiliated with, or endorsed by VRChat, Unity Technologies, or their affiliates.  
 "Unity" is a trademark or a registered trademark of Unity Technologies or its affiliates in the U.S. and elsewhere.
